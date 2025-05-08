@@ -1,0 +1,12 @@
+**Database Name: systemdb**
+
+**Developed by Fasihah Hazirah**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: Admin
+Password: Password@123
+
